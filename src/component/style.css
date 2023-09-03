@@ -1,0 +1,27 @@
+.controls-container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px auto 0px auto;
+}
+
+.way-points-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 300px;
+  margin: 0px auto 0px auto;
+  border: 1px solid black;
+}
+
+.drone-control-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 300px;
+  margin: 10px auto 0px auto;
+  border: 1px solid black;
+}
