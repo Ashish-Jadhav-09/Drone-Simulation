@@ -21,7 +21,7 @@ Follow these steps to install and run the Drone Simulation Application:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Ashish-Jadhav-09/Drone-Simulation
+   git clone https://github.com/Ashish-Jadhav-09/Drone-Simulation.git
 2. Navigate to the project directory:
 
     ```bash
