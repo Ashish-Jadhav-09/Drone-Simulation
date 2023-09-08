@@ -182,7 +182,7 @@ const App = () => {
       >
         <Maps
           provider="google"
-          center={dronePath[0]}
+          center={dronePath[currentWaypointIndex]}
           defaultCenter={dronePath.length > 0 ? dronePath[0] : defaultCenter}
           defaultZoom={defaultZoom}
         >
